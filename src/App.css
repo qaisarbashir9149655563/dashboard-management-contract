@@ -1,0 +1,28 @@
+.dark-mode {
+  background-color: #1f2937;
+  color: #e5e7eb;
+}
+
+.dark-mode .ant-layout-header {
+  background-color: #111827;
+}
+
+.dark-mode .ant-table {
+  background-color: #111827;
+  color: #e5e7eb;
+}
+
+.dark-mode .ant-table-thead > tr > th {
+  background-color: #1f2937;
+  color: #e5e7eb;
+}
+
+.dark-mode .ant-modal-content {
+  background-color: #1f2937;
+  color: #e5e7eb;
+}
+
+.light-mode {
+  background-color: #f3f4f6;
+  color: #111827;
+}
